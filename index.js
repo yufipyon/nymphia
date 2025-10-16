@@ -63,4 +63,6 @@
         total_time.textContent = durationMinutes + ":" + durationSeconds;
         }
       }
+
+document.addEventListener('contextmenu', event => event.preventDefault());
       
