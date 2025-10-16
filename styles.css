@@ -32,7 +32,25 @@ html {
 }
 
 body {
-background:#fdf1f5;
+  animation: color-change 20s infinite alternate;      
+}
+
+@keyframes color-change {
+  0% {
+    background-color: #5f5a5b; 
+  }
+  25% {
+    background-color: #807478; 
+  }
+  50% {
+    background-color: #fddde5; 
+  }
+  75% {
+    background-color: #fdf1f5; 
+  }
+  100% {
+    background-color: #fdf7f9; 
+  }
 }
 
 @font-face { 
@@ -746,4 +764,5 @@ header {
 
 
   
+
 
