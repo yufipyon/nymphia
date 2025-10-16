@@ -451,7 +451,7 @@ header {
   position: absolute;
   margin-top: 420px;
   margin-left: 114px;
-  filter: brightness(140%) drop-shadow(#f7c9d4 0px 0px 1px);
+  filter: brightness(140%) drop-shadow(#707070 0px 0px 1px);
 }
 
 .aboutme {
@@ -743,5 +743,6 @@ header {
   and (max-device-width : 769px){  
     .desktop { display: none;}
   }
+
 
   
