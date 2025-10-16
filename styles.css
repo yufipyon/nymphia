@@ -81,7 +81,7 @@ header {
  }
 
  .lace {
-     background-image:url(030-b.png);
+     background-image:url(lace.png);
  }
  
  footer {
@@ -736,5 +736,6 @@ header {
   and (max-device-width : 769px){  
     .desktop { display: none;}
   }
+
 
   
