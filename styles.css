@@ -594,7 +594,7 @@ footer {
 .snowflake:nth-of-type(12) { left: 15%; animation-delay: 5s, 1s; }
 
 .snowflake img {
-  width: 30px;
+  width: 85px;
   height: auto;
 }
 
@@ -838,3 +838,4 @@ footer {
   }
 
 }
+
