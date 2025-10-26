@@ -606,11 +606,12 @@ footer {
     padding: 70px 10px 70px 10px;
   }
   
-  header, footer {
-    height: 50px;
+  header {
+    height: 80px;
   }
   
   footer {
+    height: 50px;
     bottom: -15px;
   }
   
@@ -650,10 +651,11 @@ footer {
   }
   
   header, footer {
-    height: 40px;
+    height: 60px;
   }
   
   footer {
+    height: 40px;
     bottom: -10px;
   }
   
@@ -827,7 +829,7 @@ footer {
   }
   
   header {
-    height: 30px;
+    height: 50px;
   }
   
   footer {
