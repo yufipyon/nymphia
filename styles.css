@@ -158,7 +158,7 @@ footer {
   max-width: 320px;
   position: absolute;
   margin-top: 30px;
-  left: 50%;
+  left: 40%;
   transform: translateX(-50%);
   filter: brightness(130%) grayscale(100%) drop-shadow(#f7c9d4 0px 0px 8px) contrast(97%) opacity(60%);
 }
@@ -167,7 +167,7 @@ footer {
   height: 280px;
   position: absolute;
   margin-top: 80px;
-  right: 5%;
+  right: 0%;
   transform: scaleX(-1);
   filter: grayscale(100%) brightness(140%) opacity(60%) drop-shadow(#f7c9d4 0px 0px 8px);
 }
@@ -837,3 +837,4 @@ footer {
     bottom: -5px;
   }
 }
+
