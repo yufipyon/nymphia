@@ -252,7 +252,7 @@ footer {
   height: 130px;
   position: absolute;
   margin-top: 150px;
-  right: 10%;
+  right: 13%;
   transform: rotate(10deg);
   filter: grayscale(100%) brightness(120%) drop-shadow(#f7c9d4 0px 0px 2px);
 }
@@ -261,7 +261,7 @@ footer {
   height: 130px;
   position: absolute;
   margin-top: 90px;
-  left: 10%;
+  left: 13%;
   transform: rotate(-10deg);
   filter: brightness(110%) grayscale(70%) drop-shadow(#f7c9d4 0px 0px 2px);
 }
@@ -839,3 +839,4 @@ footer {
   }
 
 }
+
