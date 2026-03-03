@@ -1,5 +1,5 @@
 // Audio player
-const audio = new Audio("The Horrors - Something To Remember Me By.mp3");
+const audio = new Audio("PinkPantheress - Stateside ft. Zara Larsson.mp3");
 
 let playing = false;
 let musicaIniciada = false;
@@ -64,5 +64,6 @@ function seekUpdate() {
     total_time.textContent = durationMinutes + ":" + durationSeconds;
   }
 }
+
 
 document.addEventListener('contextmenu', event => event.preventDefault());
